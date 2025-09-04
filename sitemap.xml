@@ -2,30 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://alfredjynx.github.io/documentation.neural_networks/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <lastmod>2025-09-04</lastmod>
     </url>
     <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/projeto/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://alfredjynx.github.io/documentation.neural_networks/Exercicios/Dados/ex1_data/</loc>
+         <lastmod>2025-09-04</lastmod>
     </url>
     <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/roteiro1/main/</loc>
-         <lastmod>2025-09-02</lastmod>
-    </url>
-    <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/roteiro2/main/</loc>
-         <lastmod>2025-09-02</lastmod>
-    </url>
-    <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/roteiro3/main/</loc>
-         <lastmod>2025-09-02</lastmod>
-    </url>
-    <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/roteiro4/main/</loc>
-         <lastmod>2025-09-02</lastmod>
-    </url>
-    <url>
-         <loc>https://alfredjynx.github.io/documentation.neural_networks/thisdocumentation/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://alfredjynx.github.io/documentation.neural_networks/Exercicios/Perceptron/ex2_perceptron/</loc>
+         <lastmod>2025-09-04</lastmod>
     </url>
 </urlset>
