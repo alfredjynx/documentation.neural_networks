@@ -123,6 +123,9 @@ plugins:
       prompt_literal_start:
         - "$"
         - ">"
+  - mkdocs-jupyter:
+      execute: false
+      allow_errors: false
 
 extra_javascript:
   - https://unpkg.com/mathjax/es5/tex-mml-chtml.js
@@ -130,13 +133,12 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - javascripts/mathjax.js
 
 nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/main.md
   - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+      - "Exercicio 1 - Data": Exercicios/Dados/ex1_data.ipynb
+      - "Exercicio 2 - Perceptron": Exercicios/Perceptron/ex2_perceptron.ipynb
+  - Projeto: projeto/main.md
