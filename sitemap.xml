@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://alfredjynx.github.io/documentation.neural_networks/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-15</lastmod>
     </url>
     <url>
          <loc>https://alfredjynx.github.io/documentation.neural_networks/Exercicios/Dados/ex1_data/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-15</lastmod>
+    </url>
+    <url>
+         <loc>https://alfredjynx.github.io/documentation.neural_networks/Exercicios/MLP/ex3_MLP/</loc>
+         <lastmod>2025-09-15</lastmod>
     </url>
     <url>
          <loc>https://alfredjynx.github.io/documentation.neural_networks/Exercicios/Perceptron/ex2_perceptron/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-15</lastmod>
     </url>
 </urlset>
