@@ -141,4 +141,6 @@ nav:
   - Roteiros:
       - "Exercicio 1 - Data": Exercicios/Dados/ex1_data.ipynb
       - "Exercicio 2 - Perceptron": Exercicios/Perceptron/ex2_perceptron.ipynb
+      - "Exercicio 3 - Multi-Layer Perceptron": Exercicios/MLP/ex3_MLP.ipynb
+
   - Projeto: projeto/main.md
