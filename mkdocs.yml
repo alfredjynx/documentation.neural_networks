@@ -142,5 +142,11 @@ nav:
       - "Exercicio 1 - Data": Exercicios/Dados/ex1_data.ipynb
       - "Exercicio 2 - Perceptron": Exercicios/Perceptron/ex2_perceptron.ipynb
       - "Exercicio 3 - Multi-Layer Perceptron": Exercicios/MLP/ex3_MLP.ipynb
+  - Projetos:
+      - Classificação:
+          - Download de Dados: Projetos/Classification/data_download.ipynb
+          - Pré-processamento de Dados: Projetos/Classification/data_exploration.ipynb
+          - Treinamento do Modelo - MLP em Numpy: Projetos/Classification/model_training.ipynb 
+
 
   - Projeto: projeto/main.md

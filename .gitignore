@@ -3,3 +3,5 @@ env/
 .cache/
 .vscode/
 target/
+kaggle.json
+docs/Projetos/Classification/data/loan_approval
